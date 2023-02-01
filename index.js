@@ -5,6 +5,9 @@ function isEmpty(str) {
     if (str.value >= '11')
         return alert('Введіть число від 1 до 10');
 
+    if (str.value <= '0')
+        return alert('Введіть число від 1 до 10');
+
     if (str.value == '') 
         return alert('Введіть число');
 
