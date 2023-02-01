@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    margin-top: 10px;
+    background: cornsilk;
+    padding: 5px;
+    cursor: pointer;
+    display: block;
+}
+
+input {
+    margin-top: 10px;
+    background: cornsilk;
+    padding: 5px;
+}
+
+input:hover {
+    cursor: pointer;
+}
