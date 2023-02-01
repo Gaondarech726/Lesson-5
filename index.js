@@ -11,7 +11,7 @@ function isEmpty(str) {
     if (str.value == '') 
         return alert('Введіть число');
 
-        alert('Дякуємо за відовідь, Ваш голос дуже важливий для нас!')
+        alert('Дякуємо за відповідь, Ваш голос дуже важливий для нас!')
     }
 
 BtnNode.addEventListener('click', function() {
